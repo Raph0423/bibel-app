@@ -1,0 +1,17 @@
+{
+  "name": "Meine Bibel",
+  "short_name": "Bibel",
+  "description": "Meine Bibel mit Notizen – im Layout der gedruckten Ausgabe",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ece8e1",
+  "theme_color": "#ece8e1",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
